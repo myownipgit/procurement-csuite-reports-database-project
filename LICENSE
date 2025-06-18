@@ -1,0 +1,59 @@
+MIT License
+
+Copyright (c) 2024 Procurement C-Suite Reports Database Project
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Additional Terms for Procurement Industry Use
+
+This project is specifically designed to support procurement professionals and 
+organizations in implementing data-driven intelligence platforms. The following 
+additional permissions and clarifications apply:
+
+### Commercial Use
+- This software may be used freely in commercial procurement environments
+- Organizations may implement this solution for internal procurement operations
+- Consulting firms may use this framework to support client implementations
+- No royalties or licensing fees are required for commercial deployment
+
+### Data and Intellectual Property
+- Database schemas and structures are provided under this MIT license
+- Business logic and KPI calculations are freely available for use and modification
+- Sample data and examples are provided for educational and testing purposes only
+- Organizations retain full ownership of their procurement data when using this software
+
+### Contributions and Community
+- All contributions to this project will be licensed under the same MIT license
+- Contributors retain copyright to their original work while granting usage rights
+- Commercial vendors may contribute enhancements that benefit the entire community
+- Attribution to original contributors should be maintained in derivative works
+
+### Disclaimer for Procurement Applications
+- This software is provided as a framework for procurement analytics and reporting
+- Organizations are responsible for ensuring compliance with their own policies and regulations
+- Financial calculations and business logic should be validated against organizational requirements
+- The project maintainers are not responsible for business decisions made using this software
+
+### Support and Warranty
+- This is an open-source community project provided without commercial warranty
+- Community support is available through GitHub issues and discussions
+- Professional support and implementation services may be available from contributors
+- Organizations should implement appropriate testing and validation for production use
